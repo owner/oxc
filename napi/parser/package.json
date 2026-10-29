@@ -88,7 +88,7 @@
     "@napi-rs/wasm-runtime": "catalog:",
     "@types/node": "catalog:",
     "@typescript-eslint/visitor-keys": "^8.54.0",
-    "@vitest/browser": "5.0.3",
+    "@vitest/browser": "5.0.5",
     "@vitest/browser-playwright": "5.0.3",
     "playwright": "^1.51.0",
     "publint": "catalog:",
